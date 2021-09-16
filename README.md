@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ![fbiego stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fbiego&layout=compact&show_icons=true&theme=chartreuse-dark)
 
+
+[![swc](http://www.biego.tech/sweatcoin/swc.svg)](https://sweatco.in/hi/fbiego)
