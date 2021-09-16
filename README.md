@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![swc](http://www.biego.tech/sweatcoin/?user=fbiego)](https://sweatco.in/hi/fbiego)
+[![swc](http://www.biego.tech/sweatcoin/?u=fbiego)](https://sweatco.in/hi/fbiego)
 
 <!--
 **fbiego/fbiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
