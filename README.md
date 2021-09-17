@@ -3,7 +3,7 @@
 
 [![swc](http://www.biego.tech/sweatcoin/?username=fbiego)](https://sweatco.in/hi/fbiego)
 
-[![ranking](http://biego.tech/commits.php?user=fbiego&country=kenya)](https://commits.top/kenya.html)
+[![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya)](https://commits.top/kenya.html)
 
 <!--
 **fbiego/fbiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
