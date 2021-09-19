@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![swc](http://www.biego.tech/sweatcoin/?username=fbiego)](https://sweatco.in/hi/fbiego)
+[![swc](http://www.biego.tech/sweatcoin/)](https://sweatco.in/hi/fbiego)
 
 [![commits.top ranking](http://biego.tech/commits.php?user=fbiego&country=kenya)](https://commits.top/kenya.html)
 
