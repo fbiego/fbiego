@@ -1,2 +1,0 @@
-- name: Cloudflare Purge Cache Action
-  uses: 3stacks/cloudflare-purge-cache-action@v1.0.6
