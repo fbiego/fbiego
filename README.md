@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 ![fbiego stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fbiego&layout=compact&show_icons=true&theme=chartreuse-dark)
 
 
+![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
+
