@@ -27,20 +27,8 @@ jobs:
         run: |
           git config --local user.email "fbiego.fb@gmail.com"
           git config --local user.name "fbiego"
-          git add -A
-          
-          arr[0]="feat: 😂 auto commit"
-          arr[1]="feat: 😱 auto commit"
-          arr[2]="feat: 👿 auto commit"
-          arr[3]="feat: 💩 auto commit"
-          arr[4]="feat: 🙏 auto commit"
-          arr[5]="feat: 🙈 auto commit"
-          arr[6]="feat: 🐐 auto commit"
-          arr[7]="feat: 🚀 auto commit"
-          
-          rand=$[$RANDOM % ${#arr[@]}]
-          
-          git commit -m "${arr[$rand]}"
+          git add -A          
+          git commit -m "push commit"
           
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.5.0
