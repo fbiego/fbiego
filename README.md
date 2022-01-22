@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![fbiego stats](https://github-readme-stats.vercel.app/api?username=fbiego&show_icons=true&theme=chartreuse-dark)
+![fbiego stats](https://github-readme-stats.vercel.app/api?username=fbiego&show_icons=true&theme=chartreuse-dark&count_private=true)
 
 ![fbiego stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fbiego&layout=compact&show_icons=true&theme=chartreuse-dark)
 
