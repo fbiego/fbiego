@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=followers-vs-following&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/followers-vs-following)
+![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 -->
 
-![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](gitartwork.svg)
+
+
 
