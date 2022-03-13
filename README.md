@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![fbiego stats](https://github-readme-stats.vercel.app/api?username=fbiego&show_icons=true&theme=chartreuse-dark&count_private=true)
 
 ![fbiego stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fbiego&layout=compact&show_icons=true&theme=chartreuse-dark)
-
+-->
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=followers-vs-following&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/followers-vs-following)
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
