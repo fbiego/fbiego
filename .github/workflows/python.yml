@@ -30,4 +30,19 @@ jobs:
           with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
             branch: main  
-
+      
+    notification:
+      name: Notify
+      runs-on: ubuntu-18.04
+      needs: [build]
+      if: always()
+      steps: 
+        - uses: martialonline/workflow-status@v2
+          id: check
+        - run: echo "Workflow failed"
+          if: steps.check.outputs.status == 'failure'
+        - run: echo "Workflow was cancelled"
+          if: steps.check.outputs.status == 'cancelled'
+        - run: echo "Workflow was successful"
+          if: steps.check.outputs.status == 'success'
+          
