@@ -10,12 +10,15 @@ jobs:
         
         - name: checkout repo content
           uses: actions/checkout@v2 # checkout the repository content to github runner.
+        - name: PHP Runner
+          uses: franzliedke/gh-action-php@0.3.0
         - name: setup python
           uses: actions/setup-python@v2
           with:
               python-version: 3.8 #install the python needed
         - name: execute py script # run the run.py to get the latest data
           run: |
+              php status.php start-workflow
               python run.py
               
         - name: commit files
@@ -39,10 +42,10 @@ jobs:
       steps: 
         - uses: martialonline/workflow-status@v2
           id: check
-        - run: echo "Workflow failed"
+        - run: php status.php failed
           if: steps.check.outputs.status == 'failure'
-        - run: echo "Workflow was cancelled"
+        - run: php status.php cancelled
           if: steps.check.outputs.status == 'cancelled'
-        - run: echo "Workflow was successful"
+        - run: php status.php success
           if: steps.check.outputs.status == 'success'
           
