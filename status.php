@@ -16,6 +16,6 @@ function send_status($status)
 
 $st = $argv[1];
 
-send_status(&st);
+send_status($st);
 
 ?>
