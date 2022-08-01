@@ -40,6 +40,10 @@ jobs:
       needs: [build]
       if: always()
       steps: 
+        - name: checkout repo content
+          uses: actions/checkout@v2 # checkout the repository content to github runner.
+        - name: PHP Runner
+          uses: franzliedke/gh-action-php@0.3.0
         - uses: martialonline/workflow-status@v2
           id: check
         - run: php status.php failed
