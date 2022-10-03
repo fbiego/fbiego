@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 -->
 
-![Snake animation](gitartwork.svg)
+## [`ESP32 WT32-SC01 Demo`](https://github.com/fbiego/Lumia-ESP32)
+<img src="https://github.com/fbiego/Lumia-ESP32/raw/main/simulation.gif" width="320" height="480" alt="simulator video"/>
 
+<!--
+![Snake animation](gitartwork.svg)
+-->
 
 
