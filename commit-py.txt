@@ -1,1 +1,1 @@
-auto-commit 600
+auto-commit 601
