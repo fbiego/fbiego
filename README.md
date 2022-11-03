@@ -24,20 +24,21 @@ Here are some ideas to get you started:
 ![fbiego stats](https://github-readme-stats.vercel.app/api?username=fbiego&show_icons=true&theme=chartreuse-dark&count_private=true)
 
 ![fbiego stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fbiego&layout=compact&show_icons=true&theme=chartreuse-dark)
--->
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=apn-list&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/apn-list)
-<!--
+
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 -->
 
+![Card](https://felix.fbiego.com/github/)
 
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=Lumia-ESP32&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/Lumia-ESP32)
 
 [<img src="https://github.com/fbiego/Lumia-ESP32/raw/main/simulation.gif" width="320" height="480" alt="simulator video"/>](https://github.com/fbiego/Lumia-ESP32)
 
-<!--
+
 ![Snake animation](gitartwork.svg)
 -->
 
