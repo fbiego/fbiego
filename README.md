@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 -->
 
-![Card](https://felix.fbiego.com/github/)
+[![Card](https://felix.fbiego.com/github/)](https://felix.fbiego.com/)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=Lumia-ESP32&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/Lumia-ESP32)
