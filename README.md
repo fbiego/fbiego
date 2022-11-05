@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Card](https://felix.fbiego.com/github/?username=fbiego)](https://felix.fbiego.com/)
+[![Github Card](https://felix.fbiego.com/github/?username=fbiego)](https://felix.fbiego.com/)
 
 
 <!--
