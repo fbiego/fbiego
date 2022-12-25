@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=apn-list&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/apn-list)
 
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
--->
+
 
 [![World-Cup Badge](https://iot.fbiego.com/worldcup/badge)](https://github.com/fbiego/world-cup)
-
+-->
 [![Github Card](https://felix.fbiego.com/github/?id=stats&username=fbiego)](https://felix.fbiego.com/)
 
 
