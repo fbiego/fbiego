@@ -33,10 +33,16 @@ Here are some ideas to get you started:
 
 [![World-Cup Badge](https://iot.fbiego.com/worldcup/badge)](https://github.com/fbiego/world-cup)
 -->
-[![Github Card](https://felix.fbiego.com/github/?id=stats&username=fbiego)](https://felix.fbiego.com/)
+
+[<img src="https://github.com/fbiego/DT78-App-Android/raw/dev/resources/chronos_graphic.png?raw=true" height="auto" width="720" align="left"  style="border-radius:50px">](https://fbiego.com/chronos/app?id=github)
+
 
 
 <!--
+[![Github Card](https://felix.fbiego.com/github/?id=stats&username=fbiego)](https://felix.fbiego.com/)
+
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=Lumia-ESP32&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/Lumia-ESP32)
 
 [<img src="https://github.com/fbiego/Lumia-ESP32/raw/main/simulation.gif" width="320" height="480" alt="simulator video"/>](https://github.com/fbiego/Lumia-ESP32)
