@@ -32,16 +32,16 @@ Here are some ideas to get you started:
 
 
 [![World-Cup Badge](https://iot.fbiego.com/worldcup/badge)](https://github.com/fbiego/world-cup)
--->
+
 
 [<img src="https://github.com/fbiego/DT78-App-Android/raw/dev/resources/chronos_banner_gp.png?raw=true" height="auto" width="720" align="left"  style="border-radius:50px">](https://fbiego.com/chronos/app?id=github)
 
+-->
 
 
-<!--
 [![Github Card](https://felix.fbiego.com/github/?id=stats&username=fbiego)](https://felix.fbiego.com/)
 
-
+<!--
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=Lumia-ESP32&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/Lumia-ESP32)
 
