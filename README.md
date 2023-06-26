@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
 ![Snake animation](gitartwork.svg)
 -->
-
+[![](https://visitcount.itsvg.in/api?id=fbiego&label=Views&color=8&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
