@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 -->
 [![](https://visitcount.itsvg.in/api?id=fbiego&label=Views&color=8&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U0CX8SX)
+
