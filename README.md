@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 -->
 # Currently working on
 
-[![Chronos](https://fbiego.com/chronos/img/chronos-banner.png)](https://fbiego.com/chronos/)
+![Chronos](https://fbiego.com/chronos/badge)
 
 [![](https://visitcount.itsvg.in/api?id=fbiego&label=Views&color=8&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
