@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 
 ![Snake animation](gitartwork.svg)
 -->
+# Currently working on
+
+[![Chronos](https://fbiego.com/chronos/img/chronos-banner.png)](https://fbiego.com/chronos/)
+
 [![](https://visitcount.itsvg.in/api?id=fbiego&label=Views&color=8&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U0CX8SX)
