@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 -->
 ### Currently working on
 
-[![Chronos](https://fbiego.com/chronos/badge)](https://fbiego.com/chronos/)
+[![Chronos](https://fbiego.com/chronos/badge)](https://chronos.ke/)
 
 <!--
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U0CX8SX)
