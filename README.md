@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 
 #### LVGL UI project
 
-
-https://github.com/user-attachments/assets/75335ede-256d-4757-b14a-886f3af9ea76
+https://github.com/user-attachments/assets/614c1dfb-b951-4392-9dd8-2b7e5c772c7e
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=dt78-esp32-firmware&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/dt78-esp32-firmware)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=esp32-c3-mini&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/esp32-c3-mini)
