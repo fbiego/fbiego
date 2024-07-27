@@ -41,6 +41,14 @@ Here are some ideas to get you started:
 
 [![Github Card](https://felix.fbiego.com/github/?id=stats&username=fbiego)](https://felix.fbiego.com/)
 
+#### LVGL UI project
+
+
+https://github.com/user-attachments/assets/75335ede-256d-4757-b14a-886f3af9ea76
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=dt78-esp32-firmware&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/dt78-esp32-firmware)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=esp32-c3-mini&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/esp32-c3-mini)
+
 <!--
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=Lumia-ESP32&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/Lumia-ESP32)
@@ -50,7 +58,7 @@ Here are some ideas to get you started:
 
 ![Snake animation](gitartwork.svg)
 -->
-### Currently working on
+#### Currently working on
 
 [![Chronos](https://fbiego.com/chronos/badge)](https://chronos.ke/)
 
