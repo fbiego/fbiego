@@ -1,9 +1,6 @@
 <!--### Hi there 👋 
 
-[![swc](http://www.biego.tech/sweatcoin/)](https://sweatco.in/hi/fbiego)
-
-
-[![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=111&text_color=77fe89&border_color=77fe89)](https://github.com/fbiego/commits-top-badge)
+[![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=fbiego&country=kenya&bg_color=111&text_color=77fe89&border_color=77fe89)](https://github.com/fbiego/commits-top-badge)
 
 -->
 
@@ -20,6 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 ![fbiego stats](https://github-readme-stats.vercel.app/api?username=fbiego&show_icons=true&theme=chartreuse-dark&count_private=true)
 
