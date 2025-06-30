@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 
 [![Github Card](https://felix.fbiego.com/github/?id=stats&username=fbiego)](https://felix.fbiego.com/)
 
+
+[![Check out fbiego's profile on stardev.io](https://stardev.io/developers/fbiego/badge/languages/country.svg)](https://stardev.io/developers/fbiego)
+
 #### LVGL UI project
 
 https://github.com/user-attachments/assets/614c1dfb-b951-4392-9dd8-2b7e5c772c7e
