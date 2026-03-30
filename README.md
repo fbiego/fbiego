@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![fbiego stats](https://github-readme-stats.vercel.app/api?username=fbiego&show_icons=true&theme=chartreuse-dark&count_private=true)
+![fbiego stats](https://github-readme-stats.shion.dev/api?username=fbiego&show_icons=true&theme=chartreuse-dark&count_private=true)
 
-![fbiego stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fbiego&layout=compact&show_icons=true&theme=chartreuse-dark)
+![fbiego stats](https://github-readme-stats.shion.dev/api/top-langs/?username=fbiego&layout=compact&show_icons=true&theme=chartreuse-dark)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=apn-list&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/apn-list)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=fbiego&repo=apn-list&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/apn-list)
 
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 
@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 
 https://github.com/user-attachments/assets/614c1dfb-b951-4392-9dd8-2b7e5c772c7e
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=dt78-esp32-firmware&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/dt78-esp32-firmware)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=esp32-c3-mini&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/esp32-c3-mini)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=fbiego&repo=dt78-esp32-firmware&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/dt78-esp32-firmware)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=fbiego&repo=esp32-c3-mini&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/esp32-c3-mini)
 
 <!--
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbiego&repo=Lumia-ESP32&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/Lumia-ESP32)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=fbiego&repo=Lumia-ESP32&show_owner=true&theme=chartreuse-dark)](https://github.com/fbiego/Lumia-ESP32)
 
 [<img src="https://github.com/fbiego/Lumia-ESP32/raw/main/simulation.gif" width="320" height="480" alt="simulator video"/>](https://github.com/fbiego/Lumia-ESP32)
 
